@@ -1,0 +1,7 @@
+INFO - User selects the fish 
+INFO - User selects the type of the fish and click on product id 
+INFO - User click on add to cart and user can add any number of items to cart 
+INFO - User enters the quantity of item 
+INFO - User can remove an item from the cart 
+INFO - User update the cart 
+INFO - User click on proceed to checkout and system navigates to payment page 

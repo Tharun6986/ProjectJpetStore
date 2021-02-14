@@ -1,0 +1,8 @@
+INFO - User selects the cardtype 
+INFO - User enter the card number 
+INFO - User enter the expiry date 
+INFO - User clicks on continue system moves to confirm order page
+INFO - User clicks on confirm order to confirm order 
+INFO - system displays THANK YOU,YOUR ORDER HAS BEEN SUBMITTED
+FATAL - user click on continue with empty card number system displays error message
+FATAL - user click on continue with empty expiry date system displays error message

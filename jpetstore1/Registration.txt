@@ -1,0 +1,2 @@
+INFO - User enter the vaild details and moves to login page
+FATAL - user enter invalid repeat password,system displays error message

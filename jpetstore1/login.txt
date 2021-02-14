@@ -1,0 +1,4 @@
+INFO - User enter the vaild details and moves to home page
+FATAL - user enter invalid username,system displays please enter valid username and password
+FATAL - user enter invalid password,system displays please enter valid username and password 
+FATAL - user clicks on login with empty username and password feilds,system displays login page

@@ -1,0 +1,2 @@
+INFO - User clicks on myaccount 
+INFO - User clicks on my order to view list of order 
